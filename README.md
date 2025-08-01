@@ -1,4 +1,4 @@
-# X-SOFT Test Task
+# Test Task
 
 ## installation
 ```bash
